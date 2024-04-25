@@ -20,4 +20,4 @@ From this, he concluded that the most effective approach to solving this problem
 
 In this way, the model would be able to learn from the historical data collected and predict the likely results based on a new student`s hours of study by a new student.
 
-[Link para o notebook online do Google Colab]([https://colab.research.google.com/drive/1owBxgmMHvn3xrbTT7cCIjqYVYgwNud6q?usp=sharing](https://colab.research.google.com/drive/1KFAkBciTvHSgd9dFx5jfEXQqF-VBRHOw?usp=sharing))
+[Link para o notebook online do Google Colab](https://colab.research.google.com/drive/1KFAkBciTvHSgd9dFx5jfEXQqF-VBRHOw?usp=sharing)
